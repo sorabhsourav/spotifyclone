@@ -1,0 +1,12 @@
+.songInfo img {
+    width: 90px;
+}
+
+.songInfo {
+    /* height: 0px; */
+    flex-direction: row;
+}
+
+#masterSongName {
+    padding-left: 180px;
+}
